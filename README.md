@@ -53,8 +53,7 @@ Já os códigos iniciados em "4" indicam algum erro que provavelmente partiu do 
 
 Há, ainda, os códigos que indicam erro do lado do servidor. Nesse caso, eles iniciam com "5", como o 500 (Internal Server Error), que indica que ocorreu um erro internamente no servidor que o impediu de processar e responder adequdamente a requisição.
 
-Pra conhecer todos os status do HTTP, você pode consultar a especificação do protocolo. [www.rfc-editor.org/rfc/rfc9110.html](https://www.rfc-editor.org/rfc/rfc9110.html#name-400-bad-request)
-
+Pra conhecer todos os status do HTTP, você pode consultar a [especificação do protocolo](https://www.rfc-editor.org/rfc/rfc9110.html).
 
 ### **Diferenças entre PUT e POST**
 Encontramos na literatura indicações de que apenas três verbos são suficientes para um CRUD completo: GET, DELETE e PUT – sendo o PUT utilizado para criar ou editar um recurso.
